@@ -1,0 +1,16 @@
+body{
+	background-image: url(http://www.okiespavement.com/wp-content/uploads/2015/05/football-field-stripes.jpg) ;
+}
+
+.jumbotron{
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: lightgray;
+	text-align: center;
+}
+
+.class{
+	color: blue;
+	text-align: left;
+}
